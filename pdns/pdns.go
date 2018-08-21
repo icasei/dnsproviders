@@ -7,7 +7,7 @@ import (
 	"net/url"
 
 	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/pdns"
+	"github.com/icasei/lego/providers/dns/pdns"
 )
 
 func init() {
