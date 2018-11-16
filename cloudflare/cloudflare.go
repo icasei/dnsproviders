@@ -5,8 +5,8 @@ package cloudflare
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/cloudflare"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/cloudflare"
 )
 
 func init() {

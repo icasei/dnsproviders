@@ -5,8 +5,8 @@ package linode
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/linode"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/linode"
 )
 
 func init() {

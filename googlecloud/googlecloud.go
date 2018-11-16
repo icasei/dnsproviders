@@ -5,8 +5,8 @@ package googlecloud
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/gcloud"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/gcloud"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package lightsail
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/lightsail"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/lightsail"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package gandiv5
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/gandiv5"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/gandiv5"
 )
 
 func init() {

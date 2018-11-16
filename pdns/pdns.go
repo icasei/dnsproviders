@@ -6,7 +6,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/mholt/caddy/caddytls"
+	"github.com/icasei/caddy/caddytls"
 	"github.com/icasei/lego/providers/dns/pdns"
 )
 

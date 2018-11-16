@@ -5,8 +5,8 @@ package duckdns
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/duckdns"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/duckdns"
 )
 
 func init() {

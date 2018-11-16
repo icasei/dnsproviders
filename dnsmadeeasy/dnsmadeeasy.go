@@ -5,8 +5,8 @@ package dnsmadeeasy
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/dnsmadeeasy"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/dnsmadeeasy"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package glesys
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/glesys"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/glesys"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package namedotcom
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/namedotcom"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/namedotcom"
 )
 
 func init() {

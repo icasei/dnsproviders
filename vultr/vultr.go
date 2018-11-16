@@ -5,8 +5,8 @@ package vultr
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/vultr"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/vultr"
 )
 
 func init() {

@@ -3,8 +3,8 @@ package ns1
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/ns1"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/ns1"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package fastdns
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/fastdns"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/fastdns"
 )
 
 func init() {

@@ -5,8 +5,8 @@ package exoscale
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/exoscale"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/exoscale"
 )
 
 func init() {

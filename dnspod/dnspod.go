@@ -5,8 +5,8 @@ package dnspod
 import (
 	"errors"
 
-	"github.com/mholt/caddy/caddytls"
-	"github.com/xenolf/lego/providers/dns/dnspod"
+	"github.com/icasei/caddy/caddytls"
+	"github.com/icasei/lego/providers/dns/dnspod"
 )
 
 func init() {
